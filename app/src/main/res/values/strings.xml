@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">01_Android_Dice</string>
+    <string name="app_button">Roll</string>
 </resources>
